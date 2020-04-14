@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2020-04-14
+- Fix issue with carousel dots navigation on resize
+
+## [1.1.0] - 2020-04-07
+- New data-loop="off" option: remove infinite loop from carousel
+- Fixed bug when --carousel-item-auto-size has a percentage value
+
 ## [1.0.3] - 2020-03-04
 - Custom 'carousel-updated' event emitted when the carousel is updated
 
