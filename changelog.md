@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2020-04-21
+- New carousel options: navigations, counter, alignment
+- New variations: --loop-off, --counter and --pagination
+
 ## [1.1.1] - 2020-04-14
 - Fix issue with carousel dots navigation on resize
 
