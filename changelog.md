@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.3] - 2020-05-12
+- Fixed bug with counter when loop is on
+
 ## [1.1.2] - 2020-04-21
 - New carousel options: navigations, counter, alignment
 - New variations: --loop-off, --counter and --pagination
