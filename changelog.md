@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.4] - 2020-06-08
+- Fixed issue on resize when using responsive --carousel-item-auto-size values 
+
 ## [1.1.3] - 2020-05-12
 - Fixed bug with counter when loop is on
 
