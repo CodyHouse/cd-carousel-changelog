@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.6] - 2020-06-29
+- Fixed bug when carousel is inside an hidden element
+
 ## [1.1.5] - 2020-06-10
 - Fixed issue when using non-px values for the --carousel-item-auto-size variable
 
