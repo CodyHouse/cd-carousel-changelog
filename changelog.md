@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.8] - 2020-10-07
+- Fixed bug on iOS 14: navigation button stops working after first carousel update
+
 ## [1.1.7] - 2020-09-11
 - New .carousel--hide-controls class: hide carousel controls when there are not enough items for the carousel to translate
 - New carousel-active-items custom event to detect first visible item/total number of visible items in the carousel
