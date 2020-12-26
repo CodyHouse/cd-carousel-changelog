@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.9] - 2020-12-26
+- Keyboard navigation when carousel is in focus
+
 ## [1.1.8] - 2020-10-07
 - Fixed bug on iOS 14: navigation button stops working after first carousel update
 
